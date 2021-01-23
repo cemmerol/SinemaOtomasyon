@@ -1,0 +1,15 @@
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.csprojAssemblyReference.cache
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.Form1.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.Properties.Resources.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\bin\Debug\SinemaBiletOtomasyon.exe.config
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\bin\Debug\SinemaBiletOtomasyon.exe
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\bin\Debug\SinemaBiletOtomasyon.pdb
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.exe
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.pdb
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.filmekle.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.SALONEKLE.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.seansekleme.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.SEANSLİSTELE.resources
+C:\Users\CASPER\source\repos\SinemaBiletOtomasyon\SinemaBiletOtomasyon\obj\Debug\SinemaBiletOtomasyon.satıslisteleme.resources
